@@ -1,4 +1,4 @@
-package other;
+package leetcode._378_kth_smallest_element_in_a_sorted_matrix;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

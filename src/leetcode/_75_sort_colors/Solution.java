@@ -1,4 +1,4 @@
-package other;
+package leetcode._75_sort_colors;
 
 public class Solution {
 
