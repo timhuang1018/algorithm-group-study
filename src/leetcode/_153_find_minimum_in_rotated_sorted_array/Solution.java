@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode._153_find_minimum_in_rotated_sorted_array;
 
 /**
  * Suppose an array of length n sorted in ascending order is rotated between 1 and n times.
@@ -36,7 +36,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        array.Solution solution = new array.Solution();
+        Solution solution = new Solution();
         //expected 1
         System.out.println(solution.findMin(new int[]{3,1,2}));
 

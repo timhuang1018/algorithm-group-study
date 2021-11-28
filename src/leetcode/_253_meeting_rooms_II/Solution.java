@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode._253_meeting_rooms_II;
 
 import java.util.*;
 

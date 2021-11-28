@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode._73_set_matrix_zeroes;
 
 public class Solution {
 
